@@ -1,0 +1,14 @@
+POST API Response:  {
+  "bookingid": 814,
+  "booking": {
+    "firstname": "Playwright TestScript",
+    "lastname": "JavaScript",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-05-01",
+      "checkout": "2026-05-03"
+    },
+    "additionalneeds": "super bowls"
+  }
+}

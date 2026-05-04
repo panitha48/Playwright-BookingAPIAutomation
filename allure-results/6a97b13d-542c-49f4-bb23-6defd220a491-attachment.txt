@@ -1,0 +1,2 @@
+Booking Id 42
+Delete API Response: Created

@@ -1,0 +1,16 @@
+GET Response: {
+  firstname: 'Edwardo',
+  lastname: 'Brakus',
+  totalprice: 4949,
+  depositpaid: false,
+  bookingdates: { checkin: '2026-05-07', checkout: '2026-05-07' },
+  additionalneeds: 'Dinner'
+}
+PATCH Response: {
+  firstname: 'Emery',
+  lastname: 'Brakus',
+  totalprice: 4949,
+  depositpaid: false,
+  bookingdates: { checkin: '2026-05-07', checkout: '2026-05-07' },
+  additionalneeds: 'Dinner'
+}

@@ -1,0 +1,8 @@
+GET Response: {
+  firstname: 'Eugene',
+  lastname: 'Reynolds',
+  totalprice: 1404,
+  depositpaid: false,
+  bookingdates: { checkin: '2026-05-08', checkout: '2026-05-07' },
+  additionalneeds: 'Lunch'
+}
